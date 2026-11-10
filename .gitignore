@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.idea/
+.vscode/
+node_modules/
+
+# 模型权重与大数据文件
+*.pt
+*.pth
+*.h5
+*.keras
+*.pkl
+*.exe
+*.class
+*.iml
+
+# 系统文件
+.DS_Store
+Thumbs.db
